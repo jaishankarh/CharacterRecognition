@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.26pt}
+\beamer@sectionintoc {1}{Character Recognition}{2}{0}{1}
+\beamer@sectionintoc {2}{Packages Used}{5}{0}{2}
+\beamer@sectionintoc {3}{My Goal}{14}{0}{3}
+\beamer@sectionintoc {4}{Input}{18}{0}{4}
+\beamer@sectionintoc {5}{Output}{22}{0}{5}
+\beamer@sectionintoc {6}{Learning Rules}{29}{0}{6}
+\beamer@sectionintoc {7}{Error Plots}{31}{0}{7}
+\beamer@sectionintoc {8}{Performance Times}{37}{0}{8}
+\beamer@sectionintoc {9}{References}{39}{0}{9}

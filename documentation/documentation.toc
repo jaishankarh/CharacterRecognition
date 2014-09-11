@@ -1,0 +1,30 @@
+\contentsline {section}{Abstract}{1}{chapter*.1}
+\contentsline {section}{Requirements}{1}{section*.2}
+\contentsline {section}{Introduction}{2}{section*.3}
+\contentsline {section}{Brief Introduction to ANN}{2}{section*.4}
+\contentsline {subsection}{Supervised Learning}{3}{section*.6}
+\contentsline {subsection}{Unsupervised Learning}{4}{section*.7}
+\contentsline {subsection}{Hebbian Learning Rule}{4}{section*.8}
+\contentsline {subsubsection}{Hebbian Algorithm}{4}{section*.8}
+\contentsline {subsection}{Perceptron}{4}{section*.9}
+\contentsline {subsubsection}{Perceptron Algorithm}{4}{section*.9}
+\contentsline {subsection}{Delta Learning Rule}{6}{section*.10}
+\contentsline {subsection}{Delta Learning Rule}{6}{section*.11}
+\contentsline {subsection}{Pattern Classification and Pattern Association}{6}{section*.12}
+\contentsline {section}{Getting Started...}{7}{section*.13}
+\contentsline {subsection}{Gathering Training Inputs}{7}{section*.14}
+\contentsline {subsection}{Some Examples of Inputs}{7}{section*.14}
+\contentsline {subsection}{Encoding Training Inputs}{7}{section*.17}
+\contentsline {subsection}{Examples Again}{9}{section*.19}
+\contentsline {subsection}{Gathering Training Targets}{10}{section*.20}
+\contentsline {subsubsection}{Examples of Pattern Assocciation}{11}{section*.23}
+\contentsline {section}{Neuron Class}{12}{section*.25}
+\contentsline {section}{Training The Network}{13}{section*.26}
+\contentsline {subsection}{Implementation of Rules}{13}{section*.27}
+\contentsline {subsubsection}{Perceptron Rule}{13}{section*.28}
+\contentsline {subsubsection}{Delta Learning Rule Implementation}{14}{section*.29}
+\contentsline {section}{Prediction \& Recognition}{15}{section*.30}
+\contentsline {subsection}{Algorithm}{16}{section*.31}
+\contentsline {section}{RSNNS Package}{16}{section*.32}
+\contentsline {section}{Graphical User Interface}{17}{section*.33}
+\contentsline {section}{R Code}{20}{section*.36}

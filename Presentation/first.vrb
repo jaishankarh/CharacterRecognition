@@ -1,0 +1,13 @@
+\textbf {Decode Output} \\
+Pattern Classification
+\begin{itemize} [<+->]
+\item The network will output a sequence of binary numbers
+\item Decode this number into an ASCII character
+\item Display the correct character to the user
+\end{itemize}
+Pattern Association
+\begin{itemize} [<+->]
+\item The network will output a sequence of binary numbers
+\item Decode this number into an pixmap image
+\item Plot or draw this image on the window
+\end{itemize}

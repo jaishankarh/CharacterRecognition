@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{chapter*.1}{Abstract}{}% 1
+\BOOKMARK [1][-]{section*.2}{Requirements}{}% 2
+\BOOKMARK [1][-]{section*.3}{Introduction}{}% 3
+\BOOKMARK [1][-]{section*.4}{Brief Introduction to ANN}{}% 4
+\BOOKMARK [2][-]{section*.6}{Supervised Learning}{section*.4}% 5
+\BOOKMARK [2][-]{section*.7}{Unsupervised Learning}{section*.4}% 6
+\BOOKMARK [2][-]{section*.8}{Hebbian Learning Rule}{section*.4}% 7
+\BOOKMARK [2][-]{section*.9}{Perceptron}{section*.4}% 8
+\BOOKMARK [2][-]{section*.10}{Delta Learning Rule}{section*.4}% 9
+\BOOKMARK [2][-]{section*.11}{Delta Learning Rule}{section*.4}% 10
+\BOOKMARK [2][-]{section*.12}{Pattern Classification and Pattern Association}{section*.4}% 11
+\BOOKMARK [1][-]{section*.13}{Getting Started...}{}% 12
+\BOOKMARK [2][-]{section*.14}{Gathering Training Inputs}{section*.13}% 13
+\BOOKMARK [2][-]{section*.14}{Some Examples of Inputs}{section*.13}% 14
+\BOOKMARK [2][-]{section*.17}{Encoding Training Inputs}{section*.13}% 15
+\BOOKMARK [2][-]{section*.19}{Examples Again}{section*.13}% 16
+\BOOKMARK [2][-]{section*.20}{Gathering Training Targets}{section*.13}% 17
+\BOOKMARK [1][-]{section*.25}{Neuron Class}{}% 18
+\BOOKMARK [1][-]{section*.26}{Training The Network}{}% 19
+\BOOKMARK [2][-]{section*.27}{Implementation of Rules}{section*.26}% 20
+\BOOKMARK [1][-]{section*.30}{Prediction \046 Recognition}{}% 21
+\BOOKMARK [2][-]{section*.31}{Algorithm}{section*.30}% 22
+\BOOKMARK [1][-]{section*.32}{RSNNS Package}{}% 23
+\BOOKMARK [1][-]{section*.33}{Graphical User Interface}{}% 24
+\BOOKMARK [1][-]{section*.36}{R Code}{}% 25
